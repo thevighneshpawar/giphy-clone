@@ -9,7 +9,7 @@ import {HiMiniChevronDown, HiMiniChevronUp, HiMiniHeart} from "react-icons/hi2";
 import {FaPaperPlane} from "react-icons/fa6";
 import {IoCodeSharp} from "react-icons/io5";
 
-const contentType = ["gif", "stickers", "texts"];
+const contentType = ["gif", "sticker", "text"];
 
 const GifPage = () => {
   const {type, slug} = useParams();
