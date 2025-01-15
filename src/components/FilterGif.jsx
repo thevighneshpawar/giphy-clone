@@ -1,6 +1,6 @@
 import React from 'react'
 import {HiMiniArrowTrendingUp} from "react-icons/hi2";
-import {GifState} from "../context/gif-context";
+import {GifState} from "../context/Gif-context";
 
 const filters = [
   {

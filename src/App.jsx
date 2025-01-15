@@ -8,7 +8,7 @@ import Search from './pages/Search'
 import GifPage from './pages/GifPage'
 import './App.css'
 import Favourites from './pages/Favourites'
-import GifProvider from './context/gif-context'
+import GifProvider from './context/Gif-context'
 
 
 // homepage

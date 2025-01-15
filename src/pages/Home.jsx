@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import {GifState} from '../context/gif-context'
+import {GifState} from '../context/Gif-context'
 import Gif from '../components/Gif';
 import FilterGif from '../components/FilterGif';
 
